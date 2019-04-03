@@ -24,10 +24,10 @@
 }
 
 .clearfix:after {
-  content: ".";
+  content: "HELLO";
   display: block;
   clear: both;
-  visibility: hidden;
+  /*visibility: hidden;*/
   height: 0;
   line-height: 0;
 }
