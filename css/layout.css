@@ -31,7 +31,7 @@
 
 .deals  {
   clear: both;
-  background: clear;
+  background: none;
 }
 
 .clearfix:after {
