@@ -18,11 +18,11 @@
 .col-2  {
   width: 66%;
   float: left;
-  /*display: inline;*/
+  display: inline;
 }
 
-.col-3  {
-  width: auto;
+[class*="col-"] {
+  margin-left: 2%;
 }
 
 .clearfix:after {
