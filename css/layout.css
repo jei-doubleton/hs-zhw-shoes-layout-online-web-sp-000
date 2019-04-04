@@ -29,6 +29,10 @@
   margin-left: 0%;
 }
 
+.deals  {
+  clear: both;
+}
+
 .clearfix:after {
   content: ".";
   display: block;
