@@ -11,11 +11,13 @@
 
 .col-1  {
   width: 31.333%;
+  float: left;
   display: inline;
 }
 
 .col-2  {
   width: 64.666%;
+  float: left;
   /*display: inline;*/
 }
 
